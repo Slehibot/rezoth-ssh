@@ -80,18 +80,7 @@ EOF
 
 cat << EOF > /etc/banner
 <br>
-<font>ೋ˚❁ೃೀ๑۩۞۩๑ೃೀ❁ೋ˚</font><br>
-<font>┊┊┊┊ <b><font color="#ff5079">&nbsp;Rezoth</font>™</b></font><br>
-<font>┊┊┊✧ </font><br>
-<font>┊┊✦ <font color="#A52A2A">&nbsp;NO HACKING !!!</font></font><br>
-<font>┊✧ <font color="#8A2BE2">&nbsp;NO CARDING !!!</font></font><br>
-<font>✦ <font color="#FF7F50">&nbsp;NO TORRENT !!!</font></font><br>
-<font>.   ✫   .  ˚  ✦  · </font><br>
-<font> .  +  · · <font color="#33a6ff"></font></font><br>
-<font>    ✹   . <font color="#008080">&nbsp;Your privacy is our number one priority</font></font><br>
-<font>✦  · </font><br>
-<b>&nbsp;Powered by <font color="#ff5079">Rezoth™</font></b><br>
-<font>     .  +  · </font>
+<h4>&#9734; <font color="#FF6347">Premium Server</font> &#9734;</h4><b><font color="#2E86C1">===============================</font></b><br><b><span style="color:#BA55D3">╔═══════*.·:·.✧ ✦ ✧.·:·.*═══════╗</span></b><br> <b><h2><span style="color:#1f15e9;">&nbsp;&nbsp;꧁ &#127473&#127472 SL EHI BOT &#127473&#127472 ꧂</b></h2></span><b><span style="color:#BA55D3">╚═══════*.·:·.✧ ✦ ✧.·:·.*═══════╝</span></b><br><br><b><span style="color:#8A2BE2">&#187; NO SPAM !!! &#171;</span><br><span style="color:#A52A2A">&#187; NO DDOS !!! &#171;</span><br><span style="color:#6495ED">&#187; NO HACKING !!! &#171;</span><br><span style="color:#008B8B">&#187; NO CARDING !!! &#171;</span><br><span style="color:#9932CC">&#187; NO TORRENT !!! &#171;</span><br><span style="color:#1E90FF">&#187; NO OVER DOWNLOADING !!! &#171;</span></b><br><br><b><font color="#2E86C1">===============================</font></b><br><b><font color="#D35400">&#127473&#127472 &#187; SL EHI BOT&trade; &#171; &#127473&#127472</font> Auto Script</b><br><br><b>Create By: <font color="#138D75">Lakmal Sandaru</font><font color="#A52A2A">&nbsp;&nbsp;&#187; InfinityJE&trade;&#171;</font></b><br><b>Join Channel:<font color="#2E86C1">https://t.me/slehiteam  </font></b><br><br><b><font color="#2E86C1">===============================</font></b>
 EOF
 
 #Configuring stunnel
